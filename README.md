@@ -1,9 +1,9 @@
 ### Hi there, I'm Pradeep 👋
 
-## I'm a Quality Engineer, Student, Tester, and Open Source Contributer!!
+## I'm Student of Quality Engineering !!
 
 - 🔭 I'm Community Helper
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Rust,TypeScript,WA 🤣
 - 👯 I’m looking to collaborate with other Quality Engineer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Significant Contribution to Community.
 - ⚡ Fun fact: I love to Learn
