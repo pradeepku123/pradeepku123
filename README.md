@@ -1,9 +1,13 @@
 ### Hi there, I'm Pradeep 👋
 
-## I'm a Student of Quality Engineering !!
+## 🌟 Aspiring Quality Engineering Specialist
 
-- 🔭 I'm Community Helper
-- 🌱 I’m currently learning PlaywrightJS, TypeScript, Functional Programming 🤣
-- 👯 I’m looking to collaborate with other Quality Engineer
-- 🥅 2024 Goals: Learn Security Testing, Performance Engineering.
-- ⚡ Fun fact: I love to Learn
+- 🔭 Active community contributor and learner
+
+- 🌱 Currently exploring Generative AI Automation & Multimodal LLM Testing
+
+- 🤝 Looking to collaborate with fellow Quality Engineers & AI enthusiasts
+
+- 🥅 Goal: Become an expert in AI Test Automation & Safety Validation
+
+- ⚡ Fun fact: I’m passionate about continuous learning and knowledge sharing
