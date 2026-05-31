@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pradeepku123&label=Profile%20Views&color=0e75b6&style=flat" alt="pradeepku123" />
   <a href="mailto:pradeepkumarstudent2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pradeepkumarbehera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pradeep-kumar-behera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-green?style=flat&logo=google-maps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat"/>
 </p>
