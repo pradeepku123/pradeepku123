@@ -134,7 +134,6 @@ I'm a **Quality Engineering professional with 9+ years** of hands-on experience 
 
 - 🏢 **Company Types:** Product-based | FinTech | Cybersecurity SaaS | HealthTech | Any high-growth company
 - 📍 **Locations:** Bengaluru | Hyderabad | Pune | Noida | Gurugram | Mumbai | Bhubaneswar | Remote | Global
-- 💰 **Target CTC:** ₹40–50 LPA (open to discuss based on role scope)
 - 🤝 **Team Size:** Any — happy to lead or be an IC senior contributor
 
 ---
