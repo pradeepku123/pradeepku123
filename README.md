@@ -94,11 +94,11 @@ I'm a **Quality Engineering professional with 9+ years** of hands-on experience 
 ## 💼 Career Timeline
 
 ```
-2016 ──► MSys Inc. (Bengaluru)          → QA Engineer — Quantum ERP (Cypress, Selenium)
-2020 ──► Sparx IT (Noida)               → Quality Analyst — Travel & Wellness (Cypress, Visual Testing)
-2021 ──► Incedo Inc. (Pune)             → Senior Test Engineer — Tripwire Cybersecurity SaaS
-2022 ──► Capgemini Engineering (Blr)   → Software Lead — Xendit Payment Gateway (Playwright, TypeScript)
 2023 ──► Siemens Healthineers (Blr)    → Senior Engineer V&V — SHUI Design System [CURRENT]
+2022 ──► Capgemini Engineering (Blr)   → Software Lead — Xendit Payment Gateway (Playwright, TypeScript)
+2021 ──► Incedo Inc. (Pune)             → Senior Test Engineer — Tripwire Cybersecurity SaaS
+2020 ──► Sparx IT (Noida)               → Quality Analyst — Travel & Wellness (Cypress, Visual Testing)
+2016 ──► MSys Inc. (Bengaluru)          → QA Engineer — Quantum ERP (Cypress, Selenium)
 ```
 
 ---
